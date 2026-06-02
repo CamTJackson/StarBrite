@@ -1,0 +1,56 @@
+item_id,target_id,reviewer_name,reviewer_role,classification,confidence,comments,time_spent_seconds
+STAR-001,KIC3863594,Graduate_Student_A,Graduate_Student,False_Positive,2,,43
+STAR-002,KIC10417986,Graduate_Student_A,Graduate_Student,False_Positive,2,,32
+STAR-003,KIC8912468,Graduate_Student_A,Graduate_Student,False_Positive,3,Interesting signal.,20
+STAR-004,KIC8758716,Graduate_Student_A,Graduate_Student,False_Positive,1,,32
+STAR-005,KIC10855535,Graduate_Student_A,Graduate_Student,False_Positive,3,,57
+STAR-006,KIC9472174,Graduate_Student_A,Graduate_Student,False_Positive,2,Not fully confident.,80
+STAR-007,KIC9612468,Graduate_Student_A,Graduate_Student,False_Positive,4,,50
+STAR-008,KIC6613627,Graduate_Student_A,Graduate_Student,Unknown,4,,69
+STAR-009,KIC5302006,Graduate_Student_A,Graduate_Student,False_Positive,3,,32
+STAR-010,KIC9898401,Graduate_Student_A,Graduate_Student,False_Positive,3,,37
+STAR-011,KIC7375612,Graduate_Student_A,Graduate_Student,Unknown,4,Could be a binary.,34
+STAR-012,KIC5872696,Graduate_Student_A,Graduate_Student,False_Positive,4,,57
+STAR-013,KIC7767774,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,1,,66
+STAR-014,KIC12350008,Graduate_Student_A,Graduate_Student,Unknown,2,Could be a binary.,61
+STAR-015,KIC10684673,Graduate_Student_A,Graduate_Student,False_Positive,4,,68
+STAR-016,KIC9532219,Graduate_Student_A,Graduate_Student,False_Positive,3,Interesting signal.,32
+STAR-017,KIC6699679,Graduate_Student_A,Graduate_Student,Unknown,1,,57
+STAR-018,KIC6287172,Graduate_Student_A,Graduate_Student,Unknown,1,,24
+STAR-019,KIC11825204,Graduate_Student_A,Graduate_Student,False_Positive,2,Could be a binary.,75
+STAR-020,KIC4921906,Graduate_Student_A,Graduate_Student,False_Positive,4,Not fully confident.,34
+STAR-021,KIC6387887,Graduate_Student_A,Graduate_Student,False_Positive,4,,26
+STAR-022,KIC8288741,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,4,,72
+STAR-023,KIC12055255,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,2,,66
+STAR-024,KIC11013201,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,3,Could be a binary.,47
+STAR-025,KIC8108785,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,2,,48
+STAR-026,KIC1572353,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,3,,73
+STAR-027,KIC10288502,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,1,,77
+STAR-028,KIC10453521,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,4,Interesting signal.,30
+STAR-029,KIC9238207,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,1,,70
+STAR-030,KIC5166136,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,3,Not fully confident.,22
+STAR-031,KIC8555795,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,2,,79
+STAR-032,KIC6144827,Graduate_Student_A,Graduate_Student,Unknown,2,,69
+STAR-033,KIC10030943,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,2,Interesting signal.,27
+STAR-034,KIC10965091,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,1,Could be a binary.,77
+STAR-035,KIC2715417,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,4,Could be a binary.,20
+STAR-036,KIC11413213,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,3,Interesting signal.,78
+STAR-037,KIC9077796,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,3,,21
+STAR-038,KIC6050116,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,2,,54
+STAR-039,KIC12458797,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,1,,55
+STAR-040,KIC6350020,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,2,Interesting signal.,42
+STAR-041,KIC7198474,Graduate_Student_A,Graduate_Student,Unknown,2,,78
+STAR-042,KIC7546791,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,2,Not fully confident.,49
+STAR-043,KIC7871200,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,4,Not fully confident.,62
+STAR-044,KIC7959612,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,1,,23
+STAR-045,KIC3972629,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,1,,75
+STAR-046,KIC9345163,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,3,,28
+STAR-047,KIC8816790,Graduate_Student_A,Graduate_Student,False_Positive,1,,55
+STAR-048,KIC12216817,Graduate_Student_A,Graduate_Student,False_Positive,4,,50
+STAR-049,KIC11494583,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,3,Not fully confident.,36
+STAR-050,KIC4738426,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,1,Not fully confident.,60
+STAR-051,KIC2856960,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,3,,33
+STAR-052,KIC4150611,Graduate_Student_A,Graduate_Student,Multi_Star,1,,69
+STAR-053,KIC6387887,Graduate_Student_A,Graduate_Student,False_Positive,2,,20
+STAR-054,KIC11013201,Graduate_Student_A,Graduate_Student,Eclipsing_Binary,2,,21
+STAR-055,KIC10453521,Graduate_Student_A,Graduate_Student,False_Positive,1,Could be a binary.,35
