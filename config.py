@@ -7,14 +7,14 @@ OUTPUT_DIR = BASE_DIR / "outputs"
 
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-TARGETS_CSV = DATA_DIR / "kepler_targets.csv"
+TARGETS_CSV = DATA_DIR / "data/targets/kepler_targets.csv"
 
 HUMAN_FILES = [
-    DATA_DIR / "professor_a_v2.csv",
-    DATA_DIR / "professor_b_v2.csv",
-    DATA_DIR / "graduate_student_a_v2.csv",
-    DATA_DIR / "graduate_student_b_v2.csv",
-    DATA_DIR / "industry_professional_v2.csv"
+    DATA_DIR / "data/human_reviews/professor_a_v2.csv",
+    DATA_DIR / "data/human_reviews/professor_b_v2.csv",
+    DATA_DIR / "data/human_reviews/graduate_student_a_v2.csv",
+    DATA_DIR / "data/human_reviews/graduate_student_b_v2.csv",
+    DATA_DIR / "data/human_reviews/industry_professional_v2.csv"
 ]
 
 GPT_RESULTS_CSV = OUTPUT_DIR / "gpt_predictions.csv"
